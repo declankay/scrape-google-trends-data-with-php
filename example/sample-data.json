@@ -1,0 +1,1070 @@
+{
+    "TIMESERIES": {
+        "widget": {
+            "request": {
+                "time": "2020-07-01 2026-07-31",
+                "resolution": "MONTH",
+                "locale": "fr",
+                "comparisonItem": [
+                    {
+                        "geo": {
+                            "country": "FR"
+                        },
+                        "complexKeywordsRestriction": {
+                            "keyword": [
+                                {
+                                    "type": "BROAD",
+                                    "value": "croissants"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "requestOptions": {
+                    "property": "",
+                    "backend": "IZG",
+                    "category": 0
+                },
+                "userConfig": {
+                    "userType": "USER_TYPE_SCRAPER"
+                }
+            },
+            "lineAnnotationText": "Int\u00e9r\u00eat dans les recherches",
+            "showAverages": false,
+            "token": "AMbBvsEAAAAAaoBkUvZvf6baogLNVYSoxhCTyTsM0WMI",
+            "id": "TIMESERIES",
+            "title": "\u00c9volution de lint\u00e9r\u00eat pour cette recherche",
+            "version": "1"
+        },
+        "data": {
+            "timelineData": [
+                {
+                    "time": "1593561600",
+                    "formattedTime": "juil. 2020",
+                    "formattedAxisTime": "1 juil. 2020",
+                    "value": [
+                        49
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "49"
+                    ]
+                },
+                {
+                    "time": "1596240000",
+                    "formattedTime": "ao\u00fbt 2020",
+                    "formattedAxisTime": "1 ao\u00fbt 2020",
+                    "value": [
+                        48
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "48"
+                    ]
+                },
+                {
+                    "time": "1598918400",
+                    "formattedTime": "sept. 2020",
+                    "formattedAxisTime": "1 sept. 2020",
+                    "value": [
+                        55
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "55"
+                    ]
+                },
+                {
+                    "time": "1601510400",
+                    "formattedTime": "oct. 2020",
+                    "formattedAxisTime": "1 oct. 2020",
+                    "value": [
+                        63
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "63"
+                    ]
+                },
+                {
+                    "time": "1604188800",
+                    "formattedTime": "nov. 2020",
+                    "formattedAxisTime": "1 nov. 2020",
+                    "value": [
+                        86
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "86"
+                    ]
+                },
+                {
+                    "time": "1606780800",
+                    "formattedTime": "d\u00e9c. 2020",
+                    "formattedAxisTime": "1 d\u00e9c. 2020",
+                    "value": [
+                        85
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "85"
+                    ]
+                },
+                {
+                    "time": "1609459200",
+                    "formattedTime": "janv. 2021",
+                    "formattedAxisTime": "1 janv. 2021",
+                    "value": [
+                        70
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "70"
+                    ]
+                },
+                {
+                    "time": "1612137600",
+                    "formattedTime": "f\u00e9vr. 2021",
+                    "formattedAxisTime": "1 f\u00e9vr. 2021",
+                    "value": [
+                        79
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "79"
+                    ]
+                },
+                {
+                    "time": "1614556800",
+                    "formattedTime": "mars 2021",
+                    "formattedAxisTime": "1 mars 2021",
+                    "value": [
+                        73
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "73"
+                    ]
+                },
+                {
+                    "time": "1617235200",
+                    "formattedTime": "avr. 2021",
+                    "formattedAxisTime": "1 avr. 2021",
+                    "value": [
+                        79
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "79"
+                    ]
+                },
+                {
+                    "time": "1619827200",
+                    "formattedTime": "mai 2021",
+                    "formattedAxisTime": "1 mai 2021",
+                    "value": [
+                        61
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "61"
+                    ]
+                },
+                {
+                    "time": "1622505600",
+                    "formattedTime": "juin 2021",
+                    "formattedAxisTime": "1 juin 2021",
+                    "value": [
+                        49
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "49"
+                    ]
+                },
+                {
+                    "time": "1625097600",
+                    "formattedTime": "juil. 2021",
+                    "formattedAxisTime": "1 juil. 2021",
+                    "value": [
+                        50
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "50"
+                    ]
+                },
+                {
+                    "time": "1627776000",
+                    "formattedTime": "ao\u00fbt 2021",
+                    "formattedAxisTime": "1 ao\u00fbt 2021",
+                    "value": [
+                        49
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "49"
+                    ]
+                },
+                {
+                    "time": "1630454400",
+                    "formattedTime": "sept. 2021",
+                    "formattedAxisTime": "1 sept. 2021",
+                    "value": [
+                        55
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "55"
+                    ]
+                },
+                {
+                    "time": "1633046400",
+                    "formattedTime": "oct. 2021",
+                    "formattedAxisTime": "1 oct. 2021",
+                    "value": [
+                        63
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "63"
+                    ]
+                },
+                {
+                    "time": "1635724800",
+                    "formattedTime": "nov. 2021",
+                    "formattedAxisTime": "1 nov. 2021",
+                    "value": [
+                        69
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "69"
+                    ]
+                },
+                {
+                    "time": "1638316800",
+                    "formattedTime": "d\u00e9c. 2021",
+                    "formattedAxisTime": "1 d\u00e9c. 2021",
+                    "value": [
+                        91
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "91"
+                    ]
+                },
+                {
+                    "time": "1640995200",
+                    "formattedTime": "janv. 2022",
+                    "formattedAxisTime": "1 janv. 2022",
+                    "value": [
+                        77
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "77"
+                    ],
+                    "axisNote": {
+                        "text": "Notre syst\u00e8me de collecte de donn\u00e9es a \u00e9t\u00e9 am\u00e9lior\u00e9. Cette mise \u00e0 jour a \u00e9t\u00e9 appliqu\u00e9e \u00e0 partir du 01\/01\/2022."
+                    }
+                },
+                {
+                    "time": "1643673600",
+                    "formattedTime": "f\u00e9vr. 2022",
+                    "formattedAxisTime": "1 f\u00e9vr. 2022",
+                    "value": [
+                        71
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "71"
+                    ]
+                },
+                {
+                    "time": "1646092800",
+                    "formattedTime": "mars 2022",
+                    "formattedAxisTime": "1 mars 2022",
+                    "value": [
+                        68
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "68"
+                    ]
+                },
+                {
+                    "time": "1648771200",
+                    "formattedTime": "avr. 2022",
+                    "formattedAxisTime": "1 avr. 2022",
+                    "value": [
+                        71
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "71"
+                    ]
+                },
+                {
+                    "time": "1651363200",
+                    "formattedTime": "mai 2022",
+                    "formattedAxisTime": "1 mai 2022",
+                    "value": [
+                        64
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "64"
+                    ]
+                },
+                {
+                    "time": "1654041600",
+                    "formattedTime": "juin 2022",
+                    "formattedAxisTime": "1 juin 2022",
+                    "value": [
+                        56
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "56"
+                    ]
+                },
+                {
+                    "time": "1656633600",
+                    "formattedTime": "juil. 2022",
+                    "formattedAxisTime": "1 juil. 2022",
+                    "value": [
+                        54
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "54"
+                    ]
+                },
+                {
+                    "time": "1659312000",
+                    "formattedTime": "ao\u00fbt 2022",
+                    "formattedAxisTime": "1 ao\u00fbt 2022",
+                    "value": [
+                        55
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "55"
+                    ]
+                },
+                {
+                    "time": "1661990400",
+                    "formattedTime": "sept. 2022",
+                    "formattedAxisTime": "1 sept. 2022",
+                    "value": [
+                        67
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "67"
+                    ]
+                },
+                {
+                    "time": "1664582400",
+                    "formattedTime": "oct. 2022",
+                    "formattedAxisTime": "1 oct. 2022",
+                    "value": [
+                        73
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "73"
+                    ]
+                },
+                {
+                    "time": "1667260800",
+                    "formattedTime": "nov. 2022",
+                    "formattedAxisTime": "1 nov. 2022",
+                    "value": [
+                        72
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "72"
+                    ]
+                },
+                {
+                    "time": "1669852800",
+                    "formattedTime": "d\u00e9c. 2022",
+                    "formattedAxisTime": "1 d\u00e9c. 2022",
+                    "value": [
+                        99
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "99"
+                    ]
+                },
+                {
+                    "time": "1672531200",
+                    "formattedTime": "janv. 2023",
+                    "formattedAxisTime": "1 janv. 2023",
+                    "value": [
+                        81
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "81"
+                    ]
+                },
+                {
+                    "time": "1675209600",
+                    "formattedTime": "f\u00e9vr. 2023",
+                    "formattedAxisTime": "1 f\u00e9vr. 2023",
+                    "value": [
+                        80
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "80"
+                    ]
+                },
+                {
+                    "time": "1677628800",
+                    "formattedTime": "mars 2023",
+                    "formattedAxisTime": "1 mars 2023",
+                    "value": [
+                        79
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "79"
+                    ]
+                },
+                {
+                    "time": "1680307200",
+                    "formattedTime": "avr. 2023",
+                    "formattedAxisTime": "1 avr. 2023",
+                    "value": [
+                        81
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "81"
+                    ]
+                },
+                {
+                    "time": "1682899200",
+                    "formattedTime": "mai 2023",
+                    "formattedAxisTime": "1 mai 2023",
+                    "value": [
+                        67
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "67"
+                    ]
+                },
+                {
+                    "time": "1685577600",
+                    "formattedTime": "juin 2023",
+                    "formattedAxisTime": "1 juin 2023",
+                    "value": [
+                        56
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "56"
+                    ]
+                },
+                {
+                    "time": "1688169600",
+                    "formattedTime": "juil. 2023",
+                    "formattedAxisTime": "1 juil. 2023",
+                    "value": [
+                        54
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "54"
+                    ]
+                },
+                {
+                    "time": "1690848000",
+                    "formattedTime": "ao\u00fbt 2023",
+                    "formattedAxisTime": "1 ao\u00fbt 2023",
+                    "value": [
+                        62
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "62"
+                    ]
+                },
+                {
+                    "time": "1693526400",
+                    "formattedTime": "sept. 2023",
+                    "formattedAxisTime": "1 sept. 2023",
+                    "value": [
+                        60
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "60"
+                    ]
+                },
+                {
+                    "time": "1696118400",
+                    "formattedTime": "oct. 2023",
+                    "formattedAxisTime": "1 oct. 2023",
+                    "value": [
+                        72
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "72"
+                    ]
+                },
+                {
+                    "time": "1698796800",
+                    "formattedTime": "nov. 2023",
+                    "formattedAxisTime": "1 nov. 2023",
+                    "value": [
+                        68
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "68"
+                    ]
+                },
+                {
+                    "time": "1701388800",
+                    "formattedTime": "d\u00e9c. 2023",
+                    "formattedAxisTime": "1 d\u00e9c. 2023",
+                    "value": [
+                        94
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "94"
+                    ]
+                },
+                {
+                    "time": "1704067200",
+                    "formattedTime": "janv. 2024",
+                    "formattedAxisTime": "1 janv. 2024",
+                    "value": [
+                        74
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "74"
+                    ]
+                },
+                {
+                    "time": "1706745600",
+                    "formattedTime": "f\u00e9vr. 2024",
+                    "formattedAxisTime": "1 f\u00e9vr. 2024",
+                    "value": [
+                        70
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "70"
+                    ]
+                },
+                {
+                    "time": "1709251200",
+                    "formattedTime": "mars 2024",
+                    "formattedAxisTime": "1 mars 2024",
+                    "value": [
+                        79
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "79"
+                    ]
+                },
+                {
+                    "time": "1711929600",
+                    "formattedTime": "avr. 2024",
+                    "formattedAxisTime": "1 avr. 2024",
+                    "value": [
+                        66
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "66"
+                    ]
+                },
+                {
+                    "time": "1714521600",
+                    "formattedTime": "mai 2024",
+                    "formattedAxisTime": "1 mai 2024",
+                    "value": [
+                        65
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "65"
+                    ]
+                },
+                {
+                    "time": "1717200000",
+                    "formattedTime": "juin 2024",
+                    "formattedAxisTime": "1 juin 2024",
+                    "value": [
+                        64
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "64"
+                    ]
+                },
+                {
+                    "time": "1719792000",
+                    "formattedTime": "juil. 2024",
+                    "formattedAxisTime": "1 juil. 2024",
+                    "value": [
+                        53
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "53"
+                    ]
+                },
+                {
+                    "time": "1722470400",
+                    "formattedTime": "ao\u00fbt 2024",
+                    "formattedAxisTime": "1 ao\u00fbt 2024",
+                    "value": [
+                        58
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "58"
+                    ]
+                },
+                {
+                    "time": "1725148800",
+                    "formattedTime": "sept. 2024",
+                    "formattedAxisTime": "1 sept. 2024",
+                    "value": [
+                        63
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "63"
+                    ]
+                },
+                {
+                    "time": "1727740800",
+                    "formattedTime": "oct. 2024",
+                    "formattedAxisTime": "1 oct. 2024",
+                    "value": [
+                        66
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "66"
+                    ]
+                },
+                {
+                    "time": "1730419200",
+                    "formattedTime": "nov. 2024",
+                    "formattedAxisTime": "1 nov. 2024",
+                    "value": [
+                        64
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "64"
+                    ]
+                },
+                {
+                    "time": "1733011200",
+                    "formattedTime": "d\u00e9c. 2024",
+                    "formattedAxisTime": "1 d\u00e9c. 2024",
+                    "value": [
+                        93
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "93"
+                    ]
+                },
+                {
+                    "time": "1735689600",
+                    "formattedTime": "janv. 2025",
+                    "formattedAxisTime": "1 janv. 2025",
+                    "value": [
+                        76
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "76"
+                    ]
+                },
+                {
+                    "time": "1738368000",
+                    "formattedTime": "f\u00e9vr. 2025",
+                    "formattedAxisTime": "1 f\u00e9vr. 2025",
+                    "value": [
+                        68
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "68"
+                    ]
+                },
+                {
+                    "time": "1740787200",
+                    "formattedTime": "mars 2025",
+                    "formattedAxisTime": "1 mars 2025",
+                    "value": [
+                        77
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "77"
+                    ]
+                },
+                {
+                    "time": "1743465600",
+                    "formattedTime": "avr. 2025",
+                    "formattedAxisTime": "1 avr. 2025",
+                    "value": [
+                        68
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "68"
+                    ]
+                },
+                {
+                    "time": "1746057600",
+                    "formattedTime": "mai 2025",
+                    "formattedAxisTime": "1 mai 2025",
+                    "value": [
+                        65
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "65"
+                    ]
+                },
+                {
+                    "time": "1748736000",
+                    "formattedTime": "juin 2025",
+                    "formattedAxisTime": "1 juin 2025",
+                    "value": [
+                        57
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "57"
+                    ]
+                },
+                {
+                    "time": "1751328000",
+                    "formattedTime": "juil. 2025",
+                    "formattedAxisTime": "1 juil. 2025",
+                    "value": [
+                        61
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "61"
+                    ]
+                },
+                {
+                    "time": "1754006400",
+                    "formattedTime": "ao\u00fbt 2025",
+                    "formattedAxisTime": "1 ao\u00fbt 2025",
+                    "value": [
+                        61
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "61"
+                    ]
+                },
+                {
+                    "time": "1756684800",
+                    "formattedTime": "sept. 2025",
+                    "formattedAxisTime": "1 sept. 2025",
+                    "value": [
+                        64
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "64"
+                    ]
+                },
+                {
+                    "time": "1759276800",
+                    "formattedTime": "oct. 2025",
+                    "formattedAxisTime": "1 oct. 2025",
+                    "value": [
+                        69
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "69"
+                    ]
+                },
+                {
+                    "time": "1761955200",
+                    "formattedTime": "nov. 2025",
+                    "formattedAxisTime": "1 nov. 2025",
+                    "value": [
+                        70
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "70"
+                    ]
+                },
+                {
+                    "time": "1764547200",
+                    "formattedTime": "d\u00e9c. 2025",
+                    "formattedAxisTime": "1 d\u00e9c. 2025",
+                    "value": [
+                        100
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "100"
+                    ]
+                },
+                {
+                    "time": "1767225600",
+                    "formattedTime": "janv. 2026",
+                    "formattedAxisTime": "1 janv. 2026",
+                    "value": [
+                        71
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "71"
+                    ]
+                },
+                {
+                    "time": "1769904000",
+                    "formattedTime": "f\u00e9vr. 2026",
+                    "formattedAxisTime": "1 f\u00e9vr. 2026",
+                    "value": [
+                        75
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "75"
+                    ]
+                },
+                {
+                    "time": "1772323200",
+                    "formattedTime": "mars 2026",
+                    "formattedAxisTime": "1 mars 2026",
+                    "value": [
+                        71
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "71"
+                    ]
+                },
+                {
+                    "time": "1775001600",
+                    "formattedTime": "avr. 2026",
+                    "formattedAxisTime": "1 avr. 2026",
+                    "value": [
+                        65
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "65"
+                    ]
+                },
+                {
+                    "time": "1777593600",
+                    "formattedTime": "mai 2026",
+                    "formattedAxisTime": "1 mai 2026",
+                    "value": [
+                        65
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "65"
+                    ]
+                },
+                {
+                    "time": "1780272000",
+                    "formattedTime": "juin 2026",
+                    "formattedAxisTime": "1 juin 2026",
+                    "value": [
+                        61
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "61"
+                    ]
+                },
+                {
+                    "time": "1782864000",
+                    "formattedTime": "juil. 2026",
+                    "formattedAxisTime": "1 juil. 2026",
+                    "value": [
+                        65
+                    ],
+                    "hasData": [
+                        true
+                    ],
+                    "formattedValue": [
+                        "65"
+                    ]
+                }
+            ],
+            "averages": []
+        }
+    }
+}
