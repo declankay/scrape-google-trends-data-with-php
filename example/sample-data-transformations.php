@@ -6,7 +6,7 @@
 
 // Sample Data Transformations
 
-// ONE - Five-Year Average (Median) 
+// ONE - Six-Year Average (Median) 
 
 // Sort the trend scores into ascending order
 sort($trendScores);
@@ -24,7 +24,7 @@ echo $medianScore;
 
 
 
-// TWO - Five-Year Average (Mean)
+// TWO - Six-Year Average (Mean)
 
 // Get the total of all the scores combined with array_sum
 // Use the count function to get the total number of months
@@ -81,7 +81,7 @@ foreach ($aboveSpecificScores as $aboveSpecificScoreMonth => $aboveSpecificScore
 
 
 
-// FIVE - Highest, Lowest and Range Scores
+// FIVE - Top 5 Months
 
 // Amend the trend scores inside the for each loop used previously
 // Add the trend score to the array, using the month as the key (only for testing)
