@@ -1,0 +1,7 @@
+*.log
+*.sql
+
+.idea
+.tgitconfig
+node_modules/*
+vendor/*
